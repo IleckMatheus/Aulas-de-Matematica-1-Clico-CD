@@ -9,3 +9,5 @@ t5
 natural = [0 ..10]
 
 t5' = [ 5 * n | n <- natural]
+
+t5'
