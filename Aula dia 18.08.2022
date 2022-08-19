@@ -1,0 +1,5 @@
+natural = [ 0 ..10]
+
+pares = [2 * n | n <- natural]
+
+pares
