@@ -1,0 +1,11 @@
+lenght [ maxBound :: Int]
+
+1
+
+===============================================
+
+naturais = [ 0 .. ] 
+
+length [naturais]
+
+1
