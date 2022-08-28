@@ -1,0 +1,7 @@
+subsequences ['e','t','e','c']
+["","e","t","et","e","ee","te","ete","c","ec","tc","etc","ec","eec","tec","etec"]
+
+ou
+
+subsequences ['e','t','c']
+["","e","t","et","c","ec","tc","etc"]
